@@ -8,10 +8,10 @@ This project focuses on detecting fraudulent credit card transactions using a ma
 
 The dataset used for this project is `creditcard.csv`, which contains transactions made by credit cards in September 2013. It has the following attributes:
 
-- **Time**: The seconds elapsed between this transaction and the first transaction in the dataset.
-- **V1 to V28**: The result of a PCA transformation. The values are not interpretable individually.
-- **Amount**: The transaction amount.
-- **Class**: The class label (`0` for legitimate transactions and `1` for fraudulent transactions).
+- **Time** : The seconds elapsed between this transaction and the first transaction in the dataset.
+- **V1 to V28** : The result of a PCA transformation. The values are not interpretable individually.
+- **Amount* *: The transaction amount.
+- **Class** : The class label (`0` for legitimate transactions and `1` for fraudulent transactions).
 
 ## Project Workflow
 
