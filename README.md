@@ -42,6 +42,6 @@ Make sure you have the following Python libraries installed:
 - `pandas`
 - `scikit-learn`
 ## Results
-The Logistic Regression model achieves a high accuracy of 95.17% on the training data and 92.89% on the test data. These results suggest the model is effective in detecting fraudulent transactions, even with a highly imbalanced dataset.
+The Logistic Regression model achieves a high accuracy 92.89% on the test data. These results suggest the model is effective in detecting fraudulent transactions, even with a highly imbalanced dataset.
 
 
